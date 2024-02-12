@@ -120,5 +120,4 @@ function createUserCards(data) {
   });
 }
 
-// Call the function with the provided JSON data
 createUserCards(userData);
